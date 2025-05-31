@@ -14,5 +14,3 @@
 | `dotnet ef dbcontext optimize` | (EF Core 8+) Improves startup performance via source generation. | `dotnet ef dbcontext optimize` |
 | `dotnet ef dbcontext script` | Generates SQL script for migrations. | `dotnet ef migrations script` |
 | `dotnet ef migrations script <From> <To>` | Generates SQL script between two migrations. | `dotnet ef migrations script InitialCreate AddIndexes` |
-
-| Command Category | .NET CLI Command (Recommended)         | Package Manager Console (PMC) Command | Description                                                                                                                                                                                                                                                                                                                                                                                                                             | Common Opti
